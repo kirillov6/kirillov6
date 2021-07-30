@@ -11,6 +11,7 @@
   <br>
   <img title="NodeJS" alt="NodeJS" src="icons/nodejs.svg" width="40"/>
   <img title="RabbitMQ" alt="RabbitMQ" src="icons/rabbitmq.svg" width="40"/>
+  <img title="gRPC" alt="gRPC" src="icons/grpc.svg" width="40"/>
   <br>
   <img title="Visual Studio" alt="Visual Studio" src="icons/visualstudio.svg" width="40"/>
   <img title="VS Code" alt="VS Code" src="icons/vscode.svg" width="40"/>
