@@ -28,5 +28,10 @@
 
 ## Me
 <p>
-
+  <a href="https://t.me/kirillov6" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://vk.com/kirillov6" target="_blank">
+    <img alt="VK" src="https://img.shields.io/badge/VK-0077B5.svg?&style=for-the-badge&logo=VK&logoColor=white"/>
+  </a>
 </p>
