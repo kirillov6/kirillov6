@@ -24,6 +24,8 @@
   <br>
   <img title="NestJS" alt="NestJS" src="icons/nestjs.svg" width="40"/>
   <img title="React" alt="React" src="icons/react.svg" width="40"/>
+  <br>
+  <img title="Docker" alt="Docker" src="icons/docker.svg" width="40"/>
 </p>
 
 ## Me
