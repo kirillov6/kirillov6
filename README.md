@@ -21,9 +21,11 @@
 ## Currently learning
 <p>
   <img title="Go" alt="Go" src="icons/go.svg" width="40"/>
+  <img title="Dart" alt="Dart" src="icons/dart.svg" width="40"/>
   <br>
   <img title="NestJS" alt="NestJS" src="icons/nestjs.svg" width="40"/>
   <img title="React" alt="React" src="icons/react.svg" width="40"/>
+  <img title="Flutter" alt="Flutter" src="icons/flutter.svg" width="40"/>
   <br>
   <img title="Docker" alt="Docker" src="icons/docker.svg" width="40"/>
 </p>
